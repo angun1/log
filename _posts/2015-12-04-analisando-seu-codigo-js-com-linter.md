@@ -15,11 +15,11 @@ twitter_text: 'Valide seu código em JS/ES6 em busca de erros e melhore a sua qu
 introduction: 'Valide seu código em JS/ES6 em busca de erros, warnings, códigos esquecidos e melhore a sua qualidade. Seu amiguinho agradece um código mais limpo.'
 ---
 
-## Introdução
+## 안내
 
 Faaaala pessoal, fazia muito tempo que eu não escrevia e confesso que isso já estava me agoniando. Então resolvi voltar a <s>falar besteiras</s> escrever!! 
 
-Como não poderia deixar de ser, estou escrevendo ouvindo música. A playlist de hoje é [Brains](https://open.spotify.com/user/spotifybrazilian/playlist/0nUucSaL2BGl2VZlbY5TwR), uma playlist que está sendo montada lá na [CCXP](http://www.ccxp.com.br/), muita música maneira! Bota para tocar e vai lendo =D
+반영되는지 확인 , estou escrevendo ouvindo música. A playlist de hoje é [Brains](https://open.spotify.com/user/spotifybrazilian/playlist/0nUucSaL2BGl2VZlbY5TwR), uma playlist que está sendo montada lá na [CCXP](http://www.ccxp.com.br/), muita música maneira! Bota para tocar e vai lendo =D
 
 ## Qualidade de Código
 
